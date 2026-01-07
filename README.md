@@ -168,4 +168,4 @@ Word-Masters/
 https://github.com/Shashank07-debug/Word_Masters
 
 -- Live Demo (GitHub Pages):
-https://your-username.github.io/word-masters/
+https://shashank07-debug.github.io/Word_Masters/
